@@ -1,0 +1,16 @@
+{
+    "python.pythonPath": "C:\\Users\\mailv_000\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.iconTheme": "vs-seti",
+    "workbench.preferredDarkColorTheme": "Default Dark Modern",
+    "workbench.preferredHighContrastColorTheme": "Default High Contrast",
+    "workbench.preferredLightColorTheme": "Default Light Modern",
+    "workbench.editor.showIcons": true,
+    "editor.tokenColorCustomizations": {}
+}
